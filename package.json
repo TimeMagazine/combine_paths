@@ -1,0 +1,26 @@
+{
+  "name": "combine_paths",
+  "version": "0.0.0",
+  "description": "Intelligently merge SVG paths in the correct order",
+  "main": "combine_paths.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimeMagazine/combine_paths.git"
+  },
+  "keywords": [
+    "svg",
+    "paths"
+  ],
+  "author": "Chris Wilson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TimeMagazine/combine_paths/issues"
+  },
+  "homepage": "https://github.com/TimeMagazine/combine_paths#readme",
+  "dependencies": {
+    "pathseg": "^1.0.2"
+  }
+}
